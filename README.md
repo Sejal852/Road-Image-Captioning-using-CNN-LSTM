@@ -9,6 +9,12 @@ The goal of this project is to create a system that can automatically generate c
 ## Dataset
 A custom dataset was created consisting of 2000 images of roads that appear dangerous, and similary a csv file consisiting of 2000 captions for each image was created.
 
+## Model Architecture
+The model uses a CNN (VGG16) network for image feature extraction and an LSTM network for generating captions. The architecture is designed to capture both the spatial features of the images and the sequential nature of the captions.
+
+![image](https://github.com/user-attachments/assets/fac7120a-ac18-4091-b539-eb3e08f96b4b)
+
+
 ## Installation
 To get started, clone the repository and install the necessary dependencies.
 
