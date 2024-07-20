@@ -1,0 +1,5 @@
+numpy
+pandas
+tqdm
+tensorflow==2.5.0
+keras==2.4.3
