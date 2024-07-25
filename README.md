@@ -1,6 +1,6 @@
 # Road-Image-Captioning-using-CNN-LSTM
 
-This project aims to generate descriptive captions for road images using a CNN-LSTM architecture. By combining convolutional neural networks (CNNs) for image feature extraction and long short-term memory (LSTM) networks for sequence generation, the model can produce meaningful captions for a variety of road scenes.
+This project aims to generate descriptive captions for road images using a CNN-LSTM architecture. By combining convolutional neural networks (CNNs) for image feature extraction and long short-term memory (LSTM) networks for sequence generation, the model can produce meaningful captions for a variety of road conditions.
 
 
 ## Introduction
